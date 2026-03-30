@@ -10,12 +10,12 @@
 NiftyPulse AI is a production-grade, open-source stock market analysis platform designed for AI-ML Club students to collaboratively build and learn modern full-stack and MLOps workflows. The platform ingests Indian market data for Nifty 200 stocks, computes end-of-day fundamentals and technical signals, detects live chart patterns, and serves insights through a FastAPI backend and React dashboard while remaining compliant with SEBI-safe communication boundaries.
 
 ## Feature Highlights
-- 📈 End-of-day signal scan for all Nifty 200 stocks
-- 🧠 Multi-factor signal engine: Piotroski F-Score, delivery anomalies, MACD, RSI, EMA crossovers, and cash flow trends
-- 🧩 Live pattern detection: wedge, cup-and-handle, double top/bottom, head and shoulders
-- 🔁 MLOps pipeline with MLflow tracking, model registry, retraining, and drift monitoring
-- 🛡️ SEBI-aware compliance guardrails and disclaimer-first UX
-- 🚀 CI/CD-ready deployment split: Netlify (frontend) + Render/Railway (backend)
+- End-of-day signal scan for all Nifty 200 stocks
+- Multi-factor signal engine: Piotroski F-Score, delivery anomalies, MACD, RSI, EMA crossovers, and cash flow trends
+- Live pattern detection: wedge, cup-and-handle, double top/bottom, head and shoulders
+- MLOps pipeline with MLflow tracking, model registry, retraining, and drift monitoring
+- SEBI-aware compliance guardrails and disclaimer-first UX
+- CI/CD-ready deployment split: Netlify (frontend) + Render/Railway (backend)
 
 ## Tech Stack
 
