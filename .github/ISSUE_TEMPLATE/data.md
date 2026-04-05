@@ -1,22 +1,22 @@
 ---
-name: 📊 Data Task
+name: Data Task
 title: "[Data Task]: "
 ---
 
-## 📊 Task Summary
+## Task Summary
 Brief description of the data task.
 
-## 📁 Data Sources
+## Data Sources
 - Source 1:
 - Source 2:
 
-## ⚙️ Requirements
+## Requirements
 - [ ] Data cleaning
 - [ ] Transformation
 - [ ] Validation
 - [ ] Documentation
 
-## 📦 Deliverables
+## Deliverables
 - [ ] Dataset
 - [ ] Report
 - [ ] Dashboard

@@ -1,18 +1,18 @@
-## 📌 Summary
+## Summary
 Describe the purpose of this PR.
 
-## 🔗 Related Issues
+## Related Issues
 Closes # (issue number)
 
-## 🧪 Changes Made
+## Changes Made
 - Change 1
 - Change 2
 - Change 3
 
-## 📸 Screenshots (if applicable)
+## Screenshots (if applicable)
 Add screenshots to help explain your changes.
 
-## ✅ Checklist
+## Checklist
 - [ ] Code builds successfully
 - [ ] Tests added/updated
 - [ ] Documentation updated
@@ -20,5 +20,5 @@ Add screenshots to help explain your changes.
 - [ ] Follows project style guidelines
 - [ ] Reviewed own code
 
-## ⚠️ Notes for Reviewers
+## Notes for Reviewers
 Anything specific you want feedback on.

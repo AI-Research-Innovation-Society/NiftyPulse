@@ -1,26 +1,26 @@
 ---
-name: 🐛 Bug Report
+name: Bug Report
 title: "[Bug]: "
 ---
 
-## 🐛 Description
+## Description
 A clear and concise description of the bug.
 
-## 🔁 Steps to Reproduce
+## Steps to Reproduce
 1. Go to '...'
 2. Click on '...'
 3. See error
 
-## ✅ Expected Behavior
+## Expected Behavior
 What you expected to happen.
 
-## ❌ Actual Behavior
+## Actual Behavior
 What actually happened.
 
-## 📸 Screenshots / Logs
+## Screenshots / Logs
 Add screenshots or logs if applicable.
 
-## 🖥️ Environment
+## Environment
 - OS: [e.g. macOS, Windows]
 - Browser: [e.g. Chrome, Safari]
 - Version: [e.g. 1.2.0]

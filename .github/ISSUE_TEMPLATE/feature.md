@@ -1,20 +1,20 @@
 ---
-name: 🚀 Feature Request
+name: Feature Request
 title: "[Feature]: "
 ---
 
-## 🚀 Summary
+## Summary
 A clear and concise description of the feature.
 
-## 🎯 Problem Statement
+## Problem Statement
 What problem does this solve? Why is this needed?
 
-## 💡 Proposed Solution
+## Proposed Solution
 Describe the solution you'd like.
 
-## 🔄 Alternatives Considered
+## Alternatives Considered
 Describe any alternative solutions or features you've considered.
 
-## 🧩 Additional Context
+## Additional Context
 Add any other context, screenshots, or examples.
 
